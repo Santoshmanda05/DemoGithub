@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="abhishek.cs" />
     <Compile Include="ClassA.cs" />
+    <Compile Include="Democlass.cs" />
     <Compile Include="krish.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
