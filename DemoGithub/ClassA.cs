@@ -8,5 +8,6 @@ namespace DemoGithub
 {
     class ClassA
     {
+
     }
 }
