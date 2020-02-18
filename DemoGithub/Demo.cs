@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DemoGithub
 {
-    class ClassA
+    class Demo
     {
 
     }
