@@ -46,6 +46,7 @@
     <Compile Include="abhishek.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="krish.cs" />
+    <Compile Include="newabhi.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Vishal.cs" />
